@@ -1,6 +1,6 @@
 version: 1.0.0
 title: Add MCP Server
-description: Guides external contributors through adding their MCP server to goose documentation (servers.json entry and extension tutorial). Optimized for goose Desktop.
+description: Security validation PoC run - adding MCP server documentation. Reviewer requested live proof.
 author:
   contact: dianed-square
 
